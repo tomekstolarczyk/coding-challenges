@@ -1,4 +1,4 @@
-## 🏋️‍♂️ Coding Challenges
+## 🏋️‍♂️ Coding Challenge
 
 Welcome! This repository is **not a project** - it is my personal, public training ground. 
 
